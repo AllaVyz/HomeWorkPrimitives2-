@@ -4,7 +4,7 @@ public class Main {
         int addition = 1700;
         int bonus;
 
-        if (addition >=1000) {
+        if (addition >= 1000) {
             bonus = addition / 100;
             System.out.println(balance + addition + bonus);
         } else {
